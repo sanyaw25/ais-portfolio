@@ -1,8 +1,5 @@
 # kozodoi.me: Blog on AI, ML and other cool acronyms
 
-![website_snippet](https://i.postimg.cc/4yLPcHcf/ezgif-com-gif-maker-2.gif)
-
----
 
 # Summary
 
@@ -11,11 +8,9 @@ This repo stores implements my website available at https://kozodoi.me
 The website includes:
 - 📜 [my ML blog](https://kozodoi.me/blog/) with tutorials, competition solutions and project findings
 - 📁 [my portfolio](https://kozodoi.me/portfolio/) with ML projects on different topics
-- 🥇 [my Kaggle solutions](https://kozodoi.me/kaggle/) with links to code and write-ups
-- 📚 [my ML publications](https://kozodoi.me/papers/) with paper abstracts and full-text PDFs
 - 🗣 [my tech talks](https://kozodoi.me/talks/) with links to presentation slides and talk videos
 - 🧩 [my certifications](https://kozodoi.me/certifications/) with links to certificates and completed courses
-- 🎓 [my teaching experience](https%//kozodoi&me/teaching/) at the Humboldt University of Berlin
+
 
 ---
 
@@ -35,9 +30,7 @@ The website includes several customizations, including:
 
 # Contact
 
-Would like to have a chat? <a href="mailto:n.kozodoi@icloud.com">Click here</a> to send me an e-mail.
-
-I am happy to connect on different social and professional platforms. Click the badges below to see my profile.
+Would you like to connect with me? <a href="mailto:sanyaw12722@gmail.com">Click here</a> to send me an e-mail.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kozodoi/)](https://www.linkedin.com/in/kozodoi/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/n_kozodoi)](https://www.twitter.com/n_kozodoi)
